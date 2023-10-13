@@ -1,4 +1,4 @@
-Intro: Hi, I’m D. Varick @Va-r1ck (professional name). 
+Intro: Hi, I’m D. Varick @Va-r1ck (pro name). 
        I’m interested in software. Looking to collaborate on open source, and real-time projects.
 Email: varick.dawn@gmail.com
 
