@@ -1,5 +1,7 @@
-Intro: Hi, I’m D. Varick @Va-r1ck (pro name). 
-       I’m interested in software. Looking to collaborate on open source, and real-time projects.
+Intro: D. Varick @Va-r1ck (pro-name). 
+       Interested in software. Looking to work on open source, and real-time projects.
+Languages: Rust,
+           Python.
 Email: varick.dawn@gmail.com
 
 <!---
